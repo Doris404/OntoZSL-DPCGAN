@@ -1,0 +1,16 @@
+{
+    "generator_decay": 1e-06, 
+    "discriminator_decay": 1e-06, 
+    "log_frequency": true, 
+    "verbose": true, 
+    "pac": 10, 
+    "cuda": true, 
+    "embedding_dim": 128, 
+    "discriminator_steps": 5, 
+    "batch_size": 200, 
+    "epochs": 200, 
+    "generator_dim": [128, 128, 128, 128], 
+    "discriminator_dim": [128], 
+    "generator_lr": 1.4836622084568601e-05, 
+    "discriminator_lr": 1.4836622084568601e-05
+}
